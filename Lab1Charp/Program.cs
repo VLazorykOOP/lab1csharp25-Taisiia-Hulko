@@ -110,7 +110,7 @@ class Program
             Console.WriteLine("Ні (точка поза заштрихованою областю)");
         }
     }
-
+    //done
     static void Task4()
     {
         Console.WriteLine("\nВизначення місяця за кількістю днів з 1 січня 1990 року");
